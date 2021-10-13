@@ -41,6 +41,3 @@ The sentiment analysis aims to pull live tweets during each game in an attempt t
 
 ### Authors
 * [Rob Edwards](https://github.com/Rob-Geo)
-* [Kristin Lucas](https://github.com/klucas11)
-* [Marc Thomas](https://github.com/MarcThomas-Mo)
-* [Valeria Bejarano](https://github.com/vbejarano)
